@@ -1,0 +1,1 @@
+Este trabajo es mi proyecto final de la diplomatura de Ciencia de datos con R y Python del Instituto Data Science. Se hizo un trabajo de exploración de datos (EDA) y creación de un modelo predictivo que pueda predecir las emisiones de un establecimiento lechero mediante la metodología del IPCC (2019) para calcular huella de carbono.
